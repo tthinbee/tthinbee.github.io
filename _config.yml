@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt
 
 # Site Settings
 locale                   : "ko-KR"
-title                    : "MungLog"
+title                    : "MoungLog"
 title_separator          : "|"
 subtitle                 : "개발일지" # site tagline that appears below site title in masthead
 name                     : "Park Beomsoo"
